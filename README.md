@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **React, Express, NodeJS, Typescript**
 
-- 📄 Know about my experiences [me.kw-null.com/resume](me.kw-null.com/resume)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
