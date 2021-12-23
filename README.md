@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 👨‍💻 All of my projects are available at [me.kw-null.com](me.kw-null.com)
+- 👨‍💻 All of my projects are available at [me.kw-null.com](https://me.kw-null.com)
 
 - 📝 I regularly write articles on [https://lun7.medium.com/](https://lun7.medium.com/)
 
